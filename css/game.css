@@ -1,0 +1,33 @@
+body{
+	background-image:url("../images/bg.jpg");
+}
+
+.top-bar{
+	background-color:#000000;
+	opacity:0.4;
+	position:fixed;
+	width:100%;
+	display: inline;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:32px;
+	padding:5px;
+	
+
+	
+}
+.top{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow:hidden;
+}
+li{
+	float:left;
+	padding:5px;
+	padding-right:10%;
+}
+.time{
+	float:right;
+	
+}
