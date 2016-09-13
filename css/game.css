@@ -6,7 +6,7 @@ body{
 .top-bar{
 	background-color:#000000;
 	opacity:0.4;
-	position:absolute;
+	position:fixed;
 	width:100%;
 	display: inline;
 	color:#ffffff;
@@ -14,7 +14,8 @@ body{
 	font-size:32px;
 	padding:5px;
 	overflow-x:hidden;
-	
+	margin-top:-1%;
+	margin-left:-1%;
 	
 }
 .top{
@@ -74,8 +75,7 @@ li{
 	overflow:hidden;
 	margin-right:1%;
 	margin-bottom:1%;
-	background-color:#003300;
-	opacity:0.4;
+	
 	
 	
 }
@@ -136,6 +136,7 @@ li{
 	position:relative;
 	width:100%;
 	display:block;
+	
 }
 /*positioning and formatting of row 2 col3 stacked images*/
 .row-stack2{
