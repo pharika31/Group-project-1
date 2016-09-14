@@ -1,0 +1,20 @@
+body{
+background-image: url("../images/bghelp.jpg");
+background-size: cover;
+background-attachment: fixed;
+width: 60%;
+font-size: 200%;
+font-weight:bold;
+ margin:0 auto;
+ color:#ffffff;
+}
+h1{
+color: #990000;
+background-color: #F0F0F0;
+text-align: center;
+margin-top: 2%;
+}
+p{
+margin: 0%;
+text-align: center;
+}
